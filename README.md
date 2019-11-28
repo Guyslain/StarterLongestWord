@@ -13,4 +13,4 @@ Les problèmes que nous avons eu :
 
 Les ressources que nous avons consulté :
 
-- page wikipedia des arbres préfixes
+- [page wikipedia des arbres préfixes](<https://fr.wikipedia.org/wiki/Trie_(informatique)>)
